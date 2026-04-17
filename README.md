@@ -27,10 +27,10 @@ One side of each button → Arduino digital pin
 Other side → GND
 
 #### Pin mapping
-Pin 2 → Player 1 Up
-Pin 3 → Player 1 Down
-Pin 6 → Player 2 Up
-Pin 7 → Player 2 Down
+* Pin 2 → Player 1 Up
+* Pin 3 → Player 1 Down
+* Pin 6 → Player 2 Up
+* Pin 7 → Player 2 Down
 
 The LED matrix is controlled directly using the Arduino_LED_Matrix library so no extra wiring is needed if you are using Arduino UNO R4.
 
